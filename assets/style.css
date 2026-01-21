@@ -1,0 +1,46 @@
+body {
+  font-family: "Georgia", serif;
+  background: #fafafa;
+  color: #222;
+  margin: 0;
+  padding: 3rem;
+}
+
+main {
+  max-width: 600px;
+  margin: auto;
+}
+
+h1 {
+  font-weight: normal;
+  margin-bottom: 2rem;
+}
+
+.poem-text {
+  white-space: pre-line;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+.poem-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.poem-list li {
+  margin: 0.6rem 0;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.back {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
