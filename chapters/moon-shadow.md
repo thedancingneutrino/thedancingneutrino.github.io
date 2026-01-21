@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Chapter 2: The Shadow of the Moon
+title: "Chapter 2: The Shadow of the Moon"
 collection_key: ch2
 ---
 
