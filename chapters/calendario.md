@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Chapter 1: Calendario
+title: "Chapter 1: Calendario"
 collection_key: ch1
 ---
 
