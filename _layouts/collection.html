@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<p>{{ content }}</p>
+
+<ul class="poem-list">
+  {% for poem in site.pages %}
+    {% if poem.collection == page.collection_key %}
+      <li>
+        <a href="{{ poem.url }}">{{ poem.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
