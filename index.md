@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Poems
+title: Poems and Stuff I have shared
 ---
 
 ## Collections
