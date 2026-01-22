@@ -36,6 +36,26 @@ layout: default
     </p>
   {% endif %}
 
+  {% if page.instagram or page.tiktok %}
+  <div class="poem-media">
+    <span>Listen:</span>
+
+    {% if page.instagram %}
+      <a href="{{ page.instagram }}" target="_blank" rel="noopener">
+        Instagram
+      </a>
+    {% endif %}
+
+    {% if page.tiktok %}
+      {% if page.instagram %} · {% endif %}
+      <a href="{{ page.tiktok }}" target="_blank" rel="noopener">
+        TikTok
+      </a>
+    {% endif %}
+  </div>
+{% endif %}
+
+
   <div class="poem-text">
     {{ content }}
   </div>
