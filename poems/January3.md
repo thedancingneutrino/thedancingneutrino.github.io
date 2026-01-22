@@ -3,6 +3,7 @@ layout: poem
 title: "Please (January 3rd)"
 collection: ch1
 order: 7
+blurb: When a song hits so hard, you need to make a poem with it
 ---
 
 Please....
@@ -52,7 +53,8 @@ On the wall
 
 (Yes this is a cover of a Sabrina Carpenter song)
 
-_All I'm asking baby
+<em>
+All I'm asking baby
 
 Please please please
 Don't prove'em right
@@ -68,4 +70,5 @@ Please please please
 If you wanna go and be stupid
 don't do it in front of me
 If you don't wanna cry to my poems
-don't make me hate you prolifically_
+don't make me hate you prolifically
+</em>
