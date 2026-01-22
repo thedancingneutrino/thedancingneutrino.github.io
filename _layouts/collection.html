@@ -15,7 +15,7 @@ layout: default
   | where: "collection", page.collection_key
   | sort: "order" %}
 
-<ul class="poem-list">
+<!-- <ul class="poem-list">
   {% for poem in chapter_poems %}
     <li>
       <a href="{{ poem.url }}">
@@ -23,7 +23,33 @@ layout: default
       </a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
+
+<div class="chapter-entries">
+  {% for poem in chapter_poems %}
+
+    <div class="chapter-entry">
+
+      <h2 class="entry-title">
+        <a href="{{ poem.url }}">
+          {{ poem.title }}
+        </a>
+      </h2>
+
+      {% if poem.blurb %}
+        <p class="entry-blurb">
+          {{ poem.blurb }}
+        </p>
+      {% endif %}
+
+    </div>
+
+    {% unless forloop.last %}
+      <hr class="entry-separator">
+    {% endunless %}
+
+  {% endfor %}
+</div>
 
 <p class="back">
   <a href="/">
