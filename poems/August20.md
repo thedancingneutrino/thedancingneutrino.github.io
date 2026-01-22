@@ -2,6 +2,7 @@
 layout: poem
 title: "August 20 (8pm Sunsets)"
 collection: ch1
+order: 1
 ---
 
 8 pm
