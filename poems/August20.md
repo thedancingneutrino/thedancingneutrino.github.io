@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "August 20"
+title: "August 20 (8pm Sunsets)"
 collection: ch1
 ---
 
