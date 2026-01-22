@@ -2,6 +2,7 @@
 layout: poem
 title: "Please (January 3rd)"
 collection: ch1
+order: 7
 ---
 
 Please....
