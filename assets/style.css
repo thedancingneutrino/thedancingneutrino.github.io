@@ -27,6 +27,13 @@ h1 {
   padding-left: 0;
 }
 
+.poem-blurb {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 2.5rem;
+}
+
 .poem-list li {
   margin: 0.6rem 0;
 }
