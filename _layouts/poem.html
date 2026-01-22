@@ -30,6 +30,12 @@ layout: default
 <article class="poem">
   <h1>{{ page.title }}</h1>
 
+  {% if page.blurb %}
+    <p class="poem-blurb">
+      {{ page.blurb }}
+    </p>
+  {% endif %}
+
   <div class="poem-text">
     {{ content }}
   </div>
