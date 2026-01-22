@@ -52,23 +52,20 @@ Attention to the writing
 On the wall
 
 (Yes this is a cover of a Sabrina Carpenter song)
+*All I'm asking baby*
 
-<em>
-All I'm asking baby
-
-Please please please
+*Please please please
 Don't prove'em right
 Please please please
 Don't bring me to tears
 when I just did my make up so nice
 Heartbreak is one thing
 My ego is another
-I beg you don't embarrass me motherfucker
+I beg you don't embarrass me motherfucker*
 
-Please please please
+*Please please please*
 
-If you wanna go and be stupid
+*If you wanna go and be stupid
 don't do it in front of me
 If you don't wanna cry to my poems
-don't make me hate you prolifically
-</em>
+don't make me hate you prolifically.*
