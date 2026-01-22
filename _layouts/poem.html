@@ -18,7 +18,9 @@ layout: default
   </div>
   {% if chapter_page %}
     <p class="back">
-      <a href="/chapters/{{ page.collection }}">← Back to collection</a>
+      <a href="{{ chapter_page.url }}">
+        ← Back to {{ chapter_page.title }}
+      </a>
     </p>
   {% endif %}
 </article>
