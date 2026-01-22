@@ -1,4 +1,3 @@
-
 ---
 layout: poem
 title: "10 de Abril (Fantasmas)"
