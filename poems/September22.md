@@ -2,6 +2,7 @@
 layout: poem
 title: "September 22 (A New Season)"
 collection: ch1
+order: 6
 ---
 
 September falls slowly, the sunlight grows dimmer
