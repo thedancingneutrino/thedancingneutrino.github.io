@@ -44,3 +44,21 @@ a:hover {
   margin-top: 3rem;
   font-size: 0.9rem;
 }
+
+.breadcrumbs {
+  font-size: 0.85rem;
+  margin-bottom: 2rem;
+  color: #666;
+}
+
+.breadcrumbs a {
+  color: inherit;
+}
+
+.poem-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+}
+
