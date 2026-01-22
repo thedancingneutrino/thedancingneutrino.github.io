@@ -3,6 +3,7 @@ layout: poem
 title: "Marzo 11 (En la esquina de una salsa y un bolero)"
 collection: ch1
 order: 11
+blurb: "En la esquina de una salsa y un bolero, dos personas en una historia vivieron"
 ---
 
 En la esquina de una salsa y un bolero
