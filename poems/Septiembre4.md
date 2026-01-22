@@ -2,6 +2,7 @@
 layout: poem
 title: "4 de Septiembre (Tres Cientos Sesenta y Cinco Días)"
 collection: ch1
+order: 2
 ---
 
 Tres cientos
