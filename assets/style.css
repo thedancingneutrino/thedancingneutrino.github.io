@@ -53,6 +53,26 @@ a:hover {
   color: inherit;
 }
 
+.poem-media {
+  font-size: 0.85rem;
+  color: #777;
+  margin-bottom: 2rem;
+}
+
+.poem-media span {
+  margin-right: 0.3rem;
+}
+
+.poem-media a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.poem-media a:hover {
+  color: #000;
+}
+
+
 .poem-nav {
   display: flex;
   justify-content: space-between;
