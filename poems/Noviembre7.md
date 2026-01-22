@@ -2,6 +2,7 @@
 layout: poem
 title: "7 de Noviembre (Arroz con Menestra)"
 collection: ch1
+order: 3
 ---
 
 Hoy encontré a mi abuela
