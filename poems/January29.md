@@ -2,6 +2,7 @@
 layout: poem
 title: "January 28 (Scars)"
 collection: ch1
+order: 9
 ---
 
 I can feel the fog lifting,
