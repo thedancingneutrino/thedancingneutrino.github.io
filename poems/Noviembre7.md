@@ -1,4 +1,3 @@
-
 ---
 layout: poem
 title: "7 de Noviembre (Arroz con Menestra)"
