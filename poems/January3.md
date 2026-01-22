@@ -1,7 +1,7 @@
 ---
-layout:poem
-title:"Please (January 3rd)"
-collection:ch1
+layout: poem
+title: "Please (January 3rd)"
+collection: ch1
 ---
 
 Please....
