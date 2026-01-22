@@ -3,6 +3,9 @@ layout: poem
 title: "10 de Abril (Fantasmas)"
 collection: ch1
 order: 4
+blurb: Un poema dedicado a mis alucinaciones
+instagram: https://www.instagram.com/p/DIjb0stsrvU/
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7494311773059730710
 ---
 
 Se que estás ahí.
