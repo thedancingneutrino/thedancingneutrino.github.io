@@ -33,6 +33,34 @@ layout: default
   <div class="poem-text">
     {{ content }}
   </div>
+  {% assign chapter_poems = site.pages
+    | where: "collection", page.collection
+    | sort: "order" %}
+
+  {% for poem in chapter_poems %}
+    {% if poem.url == page.url %}
+      {% assign index = forloop.index0 %}
+    {% endif %}
+  {% endfor %}
+
+  <nav class="poem-nav">
+    {% if index > 0 %}
+      {% assign prev_poem = chapter_poems[index | minus: 1] %}
+      <a class="prev" href="{{ prev_poem.url }}">
+        ← {{ prev_poem.title }}
+      </a>
+    {% endif %}
+
+    {% if index < chapter_poems.size | minus: 1 %}
+      {% assign next_poem = chapter_poems[index | plus: 1] %}
+      <a class="next" href="{{ next_poem.url }}">
+        {{ next_poem.title }} →
+      </a>
+    {% endif %}
+  </nav>
+
+
+  
   {% if chapter_page %}
     <p class="back">
       <a href="{{ chapter_page.url }}">
