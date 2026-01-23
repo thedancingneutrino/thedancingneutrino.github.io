@@ -2,6 +2,7 @@
 layout: poem
 title: June 14 vs May 16 
 collection: ch1
+order: 16
 blurb: 
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7517324287389355286
 instagram: https://www.instagram.com/p/DLDHaL3tLz_/
