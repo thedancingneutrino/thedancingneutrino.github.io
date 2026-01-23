@@ -3,6 +3,9 @@ layout: poem
 title: "7 de Noviembre (Arroz con Menestra)"
 collection: ch1
 order: 3
+blurb: Inheritance through food and math
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7515855841405259030
+instagram: https://www.instagram.com/p/DK44_r1NuOS/
 ---
 
 Hoy encontré a mi abuela
