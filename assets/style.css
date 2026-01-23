@@ -17,13 +17,13 @@ h1 {
 }
 
 .poem-content {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   line-height: 1.45;
 }
 
 .poem-content p {
   white-space: pre-line;
-  margin: 0 0 0.05rem 0;
+  margin: 0 0 0.35rem 0;
 }
 
 /* Two-voice poem sections */
@@ -33,12 +33,12 @@ h1 {
 }
 
 .voice-a {
-  font-style: normal;
+  font-style: italic;
+  color: #555;
 }
 
 .voice-b {
-  font-style: italic;
-  color: #555;
+  font-style: normal;
   margin-left: 2rem;
 }
 
