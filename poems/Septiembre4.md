@@ -3,6 +3,9 @@ layout: poem
 title: "4 de Septiembre (Tres Cientos Sesenta y Cinco Días)"
 collection: ch1
 order: 2
+blurb: Un año no es nada
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7507687069280423190
+instagram: https://www.instagram.com/p/DJovafFMVK3/
 ---
 
 Tres cientos
