@@ -3,6 +3,9 @@ layout: poem
 title: "Aprile 13 (Come vai?)"
 collection: ch1
 order: 5
+blurb: Non è stato così facile imparare l'italiano
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7502110314649963798
+instagram: https://www.instagram.com/p/DJZjGENsupt/
 ---
 
 Mi piacerebbe sapere
