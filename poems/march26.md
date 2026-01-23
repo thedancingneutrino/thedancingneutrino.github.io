@@ -3,6 +3,9 @@ layout: poem
 title: "March 26 (10 years)"
 collection: ch1
 order: 13
+blurb: Not much has changed in the past 10 years
+instagram: https://www.instagram.com/p/DIPDLoTsUHS/
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7491375274534112534
 ---
 
 Not much has changed in the past 10 years.
