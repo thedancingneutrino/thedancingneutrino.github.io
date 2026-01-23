@@ -3,6 +3,9 @@ layout: poem
 title: "29 de Marzo, Una carretera (Completado en Enero)"
 collection: ch1
 order: 8
+blurb: Una de esas veces ue un poema cobra sentido despues de  casi un año
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7509138328906747158
+instagram: https://www.instagram.com/p/DKKUqYgsXRW/
 ---
 
 Tu ya no me amas,
