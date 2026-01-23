@@ -17,13 +17,13 @@ h1 {
 }
 
 .poem-content {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   line-height: 1.45;
 }
 
 .poem-content p {
   white-space: pre-line;
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.35rem 0;
 }
 
 .poem-blurb {
