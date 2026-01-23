@@ -3,6 +3,7 @@ layout: poem
 title: 6 de Junio (Tengo Ganas)
 collection: ch1
 blurb: Una salsiza para enamorarnos de nuevo
+order: 15
 instagram: https://www.instagram.com/p/DKmtNT6tDSw/
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7513228321963134230
 ---
