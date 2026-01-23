@@ -26,6 +26,22 @@ h1 {
   margin: 0 0 0.05rem 0;
 }
 
+/* Two-voice poem sections */
+.voice {
+  white-space: pre-line;
+  margin: 1.5rem 0;
+}
+
+.voice-a {
+  font-style: normal;
+}
+
+.voice-b {
+  font-style: italic;
+  color: #555;
+  margin-left: 2rem;
+}
+
 .poem-blurb {
   font-size: 0.9rem;
   font-style: italic;
@@ -75,7 +91,6 @@ a:hover {
 .poem-media a:hover {
   color: #000;
 }
-
 
 .poem-nav {
   display: flex;
