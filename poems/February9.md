@@ -3,6 +3,9 @@ layout: poem
 title: "February 9 (The Universe is a Beautiful Place)"
 collection: ch1
 order: 10
+blurb: I should know, I have traveled it, it has no end
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7487293900734975254
+instagram: https://www.instagram.com/p/DHywUbzMYF6/
 ---
 
 The universe is a beautiful place
