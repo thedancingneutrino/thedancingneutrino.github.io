@@ -11,15 +11,14 @@ title: Main
   </p>
 
   <div class="chapters">
-    {% for chapter in site.collections %}
-      {% if chapter.label contains "ch" %}
+    {% for chapter in site.chapters %}
+      {% if chapter.collection-key contains "ch" %}
         <div class="chapter-card">
           <h2>
             <a href="{{ chapter.url }}">
-              {{ chapter.title | default: chapter.label }}
+              {{ chapter.title | default: chapter.collection-key }}
             </a>
           </h2>
-
           {% if chapter.description %}
             <p class="chapter-desc">{{ chapter.description }}</p>
           {% endif %}
