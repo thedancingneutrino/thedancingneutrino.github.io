@@ -8,7 +8,11 @@ layout: default
 </nav>
 
 <h1>{{ page.title }}</h1>
-<h2>{{page.description}}</h2
+{% if page.blurb %}
+    <p class="poem-blurb">
+      {{ page.description }}
+    </p>
+{% endif %}
 <p>{{ content }}</p>
 
 {% assign chapter_poems = site.pages
