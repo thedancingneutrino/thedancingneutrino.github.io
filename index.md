@@ -12,19 +12,17 @@ title: Main
 
   <div class="chapters">
     {% for chapter in site.chapters %}
-      {% if chapter.collection_key contains "ch" %}
-        <div class="chapter-card">
-          <h2>
-            <a href="{{ chapter.url }}">
-              {{ chapter.title | default: chapter.collection_key }}
-            </a>
-          </h2>
-          {% if chapter.description %}
-            <p class="chapter-desc">{{ chapter.description }}</p>
-          {% endif %}
-        </div>
-      {% endif %}
+      <div class="chapter-card">
+        <h2>
+          <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+        </h2>
+
+        {% if chapter.description %}
+          <p class="chapter-desc">{{ chapter.description }}</p>
+        {% endif %}
+      </div>
     {% endfor %}
   </div>
+
 
 </section>
