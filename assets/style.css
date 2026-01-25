@@ -16,6 +16,41 @@ h1 {
   margin-bottom: 2rem;
 }
 
+.landing {
+  max-width: 650px;
+  margin: 4rem auto;
+}
+
+.intro {
+  font-size: 1.1rem;
+  margin-bottom: 3rem;
+}
+
+.chapters {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.chapter-card h2 {
+  font-weight: normal;
+  margin-bottom: 0.3rem;
+}
+
+.chapter-card a {
+  text-decoration: none;
+}
+
+.chapter-card a:hover {
+  text-decoration: underline;
+}
+
+.chapter-desc {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+
 .poem-content {
   font-size: 1.1rem;
   line-height: 1.45;
