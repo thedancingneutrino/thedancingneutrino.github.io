@@ -9,8 +9,6 @@ title: Main
     A collection of the things that pop through my mind.
     Everything is posted on Instagram and Tiktok (hopefully)
   </p>
-  
-## Chapters
 
   <div class="chapters">
     {% for chapter in site.collections %}
