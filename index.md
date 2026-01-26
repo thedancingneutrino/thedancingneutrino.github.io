@@ -6,7 +6,7 @@ title: Home
 <div class="landing">
 
   <p class="intro">
-    A book of poems. Written slowly.
+    The thoughts that pop into my head, now website version!
   </p>
 
   <div class="chapters">
@@ -22,7 +22,7 @@ title: Home
 
         {% if chapter.description %}
           <p class="chapter-desc">
-            {{ chapter.description }}
+            {{ chapter.summary }}
           </p>
         {% endif %}
       </div>
