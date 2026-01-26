@@ -2,13 +2,9 @@
 layout: default
 ---
 
-{% assign chapter_page = nil %}
-{% for p in site.pages %}
-  {% if p.chapter_key == page.chapter %}
-    {% assign chapter_page = p %}
-    {% break %}
-  {% endif %}
-{% endfor %}
+{% assign chapter_page = site.chapters
+  | where: "chapter_key", page.chapter
+  | first %}
 
 {% include breadcrumbs.html %}
 
