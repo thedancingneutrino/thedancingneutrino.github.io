@@ -2,3 +2,11 @@ title: The Dancing Neutrino
 description:  Website Version!
 markdown: kramdown
 permalink: pretty
+
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:slug/
+  poems:
+    output: true
+    permalink: /poems/:slug/
