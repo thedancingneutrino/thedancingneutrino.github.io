@@ -2,10 +2,7 @@
 layout: default
 ---
 
-<nav class="breadcrumbs">
-  <a href="/">Home</a>
-  → <span>{{ page.title }}</span>
-</nav>
+{% include breadcrumbs.html %}
 
 <h1>{{ page.title }}</h1>
 {% if page.blurb %}
@@ -15,7 +12,7 @@ layout: default
 {% endif %}
 <p>{{ content }}</p>
 
-{% assign chapter_poems = site.pages
+{% assign chapter_poems = site.poems
   | where: "layout", "poem"
   | where: "collection", page.collection_key
   | sort: "order" %}

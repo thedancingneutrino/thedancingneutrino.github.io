@@ -1,0 +1,7 @@
+<nav class="breadcrumbs">
+    <a href="/">Home</a>
+    {% if chapter_page %}
+      → <a href="{{ chapter_page.url }}">{{ chapter_page.title }}</a>
+    {% endif %}
+    → <span>{{ page.title }}</span>
+  </nav>
