@@ -13,7 +13,7 @@ layout: default
 <p>{{ content }}</p>
 
 {% assign chapter_poems = site.poems
-  | where: "collection", page.collection_key
+  | where: "chapter", page.chapter_key
   | sort: "order" %}
 
 <!-- <ul class="poem-list">
