@@ -4,7 +4,7 @@ layout: default
 
 {% assign chapter_page = nil %}
 {% for p in site.pages %}
-  {% if p.collection_key == page.collection %}
+  {% if p.chapter_key == page.chapter %}
     {% assign chapter_page = p %}
     {% break %}
   {% endif %}
