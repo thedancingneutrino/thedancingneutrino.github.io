@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "Please (January 3rd)"
-collection: ch1
+chapter: ch1
 order: 7
 blurb: When a song hits so hard, you need to make a poem with it
 instagram: https://www.instagram.com/p/DKcGehRMT_N/

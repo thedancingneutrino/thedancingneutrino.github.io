@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "10 de Abril (Fantasmas)"
-collection: ch1
+chapter: ch1
 order: 4
 blurb: Un poema dedicado a mis alucinaciones
 instagram: https://www.instagram.com/p/DIjb0stsrvU/

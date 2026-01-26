@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "March 26 (10 years)"
-collection: ch1
+chapter: ch1
 order: 13
 blurb: Not much has changed in the past 10 years
 instagram: https://www.instagram.com/p/DIPDLoTsUHS/

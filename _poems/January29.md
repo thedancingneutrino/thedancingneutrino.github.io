@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "January 28 (Scars)"
-collection: ch1
+chapter: ch1
 order: 9
 blurb: Heartbreak with a colonial touch
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7496527933851421974

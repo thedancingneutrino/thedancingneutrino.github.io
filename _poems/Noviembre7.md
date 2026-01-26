@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "7 de Noviembre (Arroz con Menestra)"
-collection: ch1
+chapter: ch1
 order: 3
 blurb: Inheritance through food
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7515855841405259030

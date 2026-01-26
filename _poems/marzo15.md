@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "Marzo 15 (Non succederá mai)"
-collection: ch1
+chapter: ch1
 order: 12
 blurb: Cose che non hanno succeso, e non succederanno
 instagram: https://www.instagram.com/p/DJovafFMVK3/

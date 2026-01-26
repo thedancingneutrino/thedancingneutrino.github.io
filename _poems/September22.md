@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "September 22 (A New Season)"
-collection: ch1
+chapter: ch1
 order: 6
 blurb: I will get my own happy ending
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7515854086055628055

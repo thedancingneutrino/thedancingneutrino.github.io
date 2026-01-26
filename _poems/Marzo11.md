@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "Marzo 11 (En la esquina de una salsa y un bolero)"
-collection: ch1
+chapter: ch1
 order: 11
 blurb: "Muchas historias se vivieron en la esquina de una salsa y un bolero"
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7487290262025178390

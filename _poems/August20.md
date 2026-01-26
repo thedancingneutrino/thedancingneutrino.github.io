@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: "August 20 (8pm Sunsets)"
-collection: ch1
+chapter: ch1
 order: 1
 blurb: Did you know that the sun sets at a different times throughout the year? Cause I didn't
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7488728667997179158
