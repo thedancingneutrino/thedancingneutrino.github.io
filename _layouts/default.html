@@ -2,10 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }} · {{ site.title }}</title>
+  <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="/assets/style.css">
 </head>
 <body>
+  <header class="site-header {% if page.url == '/' %}home{% else %}inner{% endif %}">
+    <a href="/" class="logo-link">
+      <img src="/assets/Logo.png" alt="{{ site.title }} logo" class="site-logo">
+    </a>
+  </header>
   <main>
     {{ content }}
   </main>

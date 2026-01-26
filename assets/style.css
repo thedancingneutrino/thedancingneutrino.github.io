@@ -1,9 +1,46 @@
+.site-header {
+  position: relative;
+  margin-bottom: 3rem;
+}
+
+.site-logo {
+  display: block;
+  max-width: 180px;
+  height: auto;
+}
+
+.site-header.home {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.site-header.home .site-logo {
+  margin: 0 auto;
+}
+
+.site-header.inner {
+  position: fixed;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 1000;
+}
+
+.site-header.inner .site-logo {
+  max-width: 60px;
+  opacity: 0.85;
+}
+
+.site-header.inner .site-logo:hover {
+  opacity: 1;
+}
+
 body {
   font-family: "Georgia", serif;
   background: #fafafa;
   color: #222;
   margin: 0;
   padding: 3rem;
+  padding-top: 5rem;
 }
 
 main {
