@@ -14,7 +14,7 @@ Ma a volte c'è paura di condividere lo spazio
 La gente si nasconde
 Il cuore sparisce in un mare di volcadas.
 
-io ero contento di rimanere in attesa
+Io ero contento di rimanere in attesa
 C'era qualcuno che diceva
 "Balliamo sempre nella ricerca
 Di quel abbraccio che mai risuccederà"
