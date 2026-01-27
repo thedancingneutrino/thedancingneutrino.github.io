@@ -100,7 +100,7 @@ h1 {
 
 /* Two-voice poem sections */
 .voice {
-  white-space: pre-line;
+  white-space: pre-wrap;
   margin: 1.5rem 0;
 }
 
