@@ -39,13 +39,17 @@ De colores que cantan melodías
 
 ...
 
-\[Manuel Medrano - La Distancia ♫ \] *No me acordaba de lo rico que era tocar tu piel*
+\[Manuel Medrano - La Distancia ♫ \] 
+*No me acordaba de lo rico que era tocar tu piel*
 
-\[Babasónicos -  Como Eran las Cosas ♫\] *Creo que es momento para otra bomba de humo y batirme en retirada*
+\[Babasónicos -  Como Eran las Cosas ♫\] 
+*Creo que es momento para otra bomba de humo y batirme en retirada*
 
-\[ Rocio Vidal - La Gata Bajo la Lluvia ♫ \] *Amor... Tranquila no te voy a molestar*
+\[ Rocio Vidal - La Gata Bajo la Lluvia ♫ \] 
+*Amor... Tranquila no te voy a molestar*
 
-\[ Mon Laferte - Tu Falta de Querer ♫ \] *Veeeen y cuéntame la verdad*
+\[ Mon Laferte - Tu Falta de Querer ♫ \] 
+*Veeeen y cuéntame la verdad*
 
 ...
 
