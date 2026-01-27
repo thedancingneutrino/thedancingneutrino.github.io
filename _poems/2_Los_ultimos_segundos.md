@@ -45,7 +45,7 @@ De colores que cantan melodías
 \[Babasónicos -  Como Eran las Cosas ♫\] 
 *Creo que es momento para otra bomba de humo y batirme en retirada*
 
-\[ Rocio Vidal - La Gata Bajo la Lluvia ♫ \] 
+\[ Rocio Durcal - La Gata Bajo la Lluvia ♫ \] 
 *Amor... Tranquila no te voy a molestar*
 
 \[ Mon Laferte - Tu Falta de Querer ♫ \] 

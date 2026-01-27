@@ -13,7 +13,7 @@ Ayer me llegó una historia. Un cuento. Empezaba con palabras repetidas y tatuad
 Una historia como miles posibles de las cuales pienso cientos. Y entre ellas son decenas siquiera razonables y un par podrían haber sido y ninguna es la realidad. 
 
 Bueno, decía algo así la historia. 
-\[ Yami Safdie - En otra vida ♫ \] *En otra vida...*
+\[ Yami Safdie, Lasso - En otra vida ♫ \] *En otra vida...*
 
 En otro mundo, en una realidad que poco o nada tiene que ver con lo que vivimos... En otra vida nos conocimos en la secundaria. Ni siquiera nos mirábamos. Había un nombre que se soltaba por ahí que más o menos se asociaba a tu cara. Pero sucede que un día, en un paseo, nos tocó por casualidad- o destino quizas- hacer equipo juntos. Y nos sonreímos y hablamos como si siempre nos hubiéramos tenido presentes. Como si nos conocieramos de otra vida..
 
