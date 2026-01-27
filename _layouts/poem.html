@@ -42,7 +42,7 @@ layout: default
   </div>
 
   {% assign chapter_poems = site.poems
-  | where: "chapter", page.chapter_key
+  | where: "chapter", page.chapter
   | sort: "order" %}
 
   {% assign index = nil %}
