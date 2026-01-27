@@ -8,6 +8,7 @@ tiktok: https://www.tiktok.com/@thedancingneutrino/video/7599986623794760982
 instagram: https://www.instagram.com/p/DOT7eipjIIp/
 ---
 
+<div class="poem-content">
 “El tango consiste 
 		De la busqueda
 	De un abrazo que
@@ -15,7 +16,7 @@ instagram: https://www.instagram.com/p/DOT7eipjIIp/
 	   Pues contigo me sucede
 		Todo lo contrario.
 
-	Me emociona
+    Me emociona
 		Me exalta
 	    La ansiedad, la esperanza,
 		De lo diferente que será
@@ -34,4 +35,6 @@ En cada canción
 				    Poco a poco.
 
 		                                    Y cada vez, me tiene más devoto.
+
+</div>
 
