@@ -3,7 +3,7 @@ layout: poem
 title: "Un Futuro Hermoso"
 chapter: ch2
 order: 3
-blurb: Me pediste ue haga algo hermoso con este dolor.
+blurb: Me pediste que haga algo hermoso con este dolor.
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7575098552897015042
 instagram: https://www.instagram.com/p/DNA8lNNseOx/
 ---
