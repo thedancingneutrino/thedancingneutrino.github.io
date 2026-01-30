@@ -4,7 +4,14 @@ layout: default
 
 {% include breadcrumbs.html %}
 
-<h1>{{ page.title }}</h1>
+<h1>
+  <span class="chapter-number">
+    {{ chapter.title | split: ":" | first }}:
+  </span>
+  <span class="chapter-name">
+     {{ chapter.title | split: ":" | last }}
+  </span>
+</h1>
 {% if page.blurb %}
     <p class="poem-blurb">
       {{ page.description }}
