@@ -14,7 +14,15 @@ title: Home
 
     {% for chapter in chapters %}
       <a href="{{ chapter.url }}" class="chapter-card">
-        <h2>{{ chapter.title }}</h2>
+        
+        <h2 class="chapter-title">
+          <span class="chapter-number">
+            {{ chapter.title | split: ":" | first }}:
+          </span>
+          <span class="chapter-name">
+             {{ chapter.title | split: ":" | last }}
+          </span>
+        </h2>
 
         {% if chapter.summary %}
           <p class="chapter-desc">

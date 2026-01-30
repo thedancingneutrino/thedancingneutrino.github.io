@@ -71,7 +71,7 @@ h1 {
 
 .chapter-card {
   padding: 1.5rem 1.75rem;
-  border: 1px solid #777;
+  border: 1px solid #333;
   border-radius: 8px;
   display: block;
   color: inherit;
@@ -92,6 +92,18 @@ h1 {
   transform: translateY(-2px);
   text-decoration: none;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.chapter-title {
+  font-weight: normal;
+}
+
+.chapter-number {
+  font-weight: bold;
+}
+
+.chapter-name {
+  font-style: italic;
 }
 
 .chapter-desc {
