@@ -246,10 +246,17 @@ a:hover {
   }
 
   main {
-    max-width: 90%;
+    max-width: none;
+    margin: 0;
   }
+
+  .landing {
+    margin: 2rem 0;
+  }
+
   .chapter-card {
     padding: 1.5rem;
+    border-width: 2px;
   }
 
   .chapter-card h2 {
@@ -273,6 +280,29 @@ a:hover {
   }
   .site-header.home .site-logo {
     margin: 0 auto;
+  }
+
+  .site-header.inner {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .site-header.inner .site-logo {
+    max-width: 120px;
+  }
+
+  .chapter-name {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.25rem;
+  }
+
+  .chapter-number {
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
   }
   
 }
