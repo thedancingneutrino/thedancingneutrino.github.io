@@ -262,10 +262,15 @@ a:hover {
   }
 
   .site-header.home {
-    text-align: left;
+    text-align: center;
     margin-top: 0.5rem;
   }
   
+  .site-logo {
+    display: block;
+    max-width: 300px;
+    height: auto;
+  }
   .site-header.home .site-logo {
     margin: 0 auto;
   }
