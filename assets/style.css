@@ -66,12 +66,12 @@ h1 {
 .chapters {
   display: flex;
   flex-direction: column;
-  gap: 2.5rem;
+  gap: 2rem;
 }
 
 .chapter-card {
   padding: 1.5rem 1.75rem;
-  border: 1px solid #eee;
+  border: 1px solid #aaa;
   border-radius: 8px;
   display: block;
   color: inherit;
@@ -219,7 +219,7 @@ a:hover {
   .entry-separator { border-top-color: #333; }
 
   .chapter-card {
-    border-color: #333;
+    border-color: #222;
   }
 
   .chapter-card:hover {
