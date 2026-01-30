@@ -5,7 +5,7 @@
 
 .site-logo {
   display: block;
-  max-width: 360px;
+  max-width: 400px;
   height: auto;
 }
 
@@ -241,8 +241,8 @@ a:hover {
 
 @media (max-width: 600px) {
   body {
-    padding: 1.5rem;
-    padding-top: 4rem;
+    padding: 0.5rem;
+    padding-top: 1rem;
   }
 
   main {
@@ -260,4 +260,14 @@ a:hover {
   .chapter-desc {
     font-size: 0.95rem;
   }
+
+  .site-header.home {
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+  
+  .site-header.home .site-logo {
+    margin: 0 0;
+  }
+  
 }
