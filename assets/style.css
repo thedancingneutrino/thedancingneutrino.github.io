@@ -241,6 +241,9 @@ a:hover {
 
 @media (max-width: 600px) {
   body {
+    background: red;
+  }
+  body {
     padding: 0.5rem;
     padding-top: 1rem;
   }
