@@ -13,19 +13,15 @@ title: Home
     {% assign chapters = site.chapters | sort: "order" %}
 
     {% for chapter in chapters %}
-      <div class="chapter-card">
-        <h2>
-          <a href="{{ chapter.url }}">
-            {{ chapter.title }}
-          </a>
-        </h2>
+      <a href="{{ chapter.url }}" class="chapter-card">
+        <h2>{{ chapter.title }}</h2>
 
-        {% if chapter.description %}
+        {% if chapter.summary %}
           <p class="chapter-desc">
             {{ chapter.summary }}
           </p>
         {% endif %}
-      </div>
+      </a>
     {% endfor %}
   </div>
 
