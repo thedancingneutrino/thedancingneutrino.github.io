@@ -36,7 +36,7 @@
 
 body {
   font-family: "Georgia", serif;
-  background: #f0f0f0;
+  background: #c9c4ba;
   color: #222;
   margin: 0;
   padding: 3rem;
@@ -46,7 +46,7 @@ body {
 main {
   max-width: 600px;
   margin: auto;
-  background: #f5efe6;
+  background: #faefe1;
   padding: 2.5rem 2.5rem 3rem;
   border-radius: 2px;
 }
