@@ -46,6 +46,9 @@ body {
 main {
   max-width: 600px;
   margin: auto;
+  background: #fdfaf5;
+  padding: 2.5rem 2.5rem 3rem;
+  border-radius: 2px;
 }
 
 h1 {
