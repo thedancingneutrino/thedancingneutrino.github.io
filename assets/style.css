@@ -226,24 +226,6 @@ a:hover {
   margin: 2.5rem 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #111;
-    color: #222;
-  }
-
-  a { color: #ddd; }
-  .entry-separator { border-top-color: #333; }
-
-  .chapter-card {
-    border-color: #222;
-  }
-
-  .chapter-card:hover {
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
-  }
-}
-
 @media (max-width: 600px) {
   body {
     padding: 0.5rem;
