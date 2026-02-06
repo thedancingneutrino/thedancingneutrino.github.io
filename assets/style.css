@@ -72,7 +72,7 @@ main {
   background: #faefe1; /* light paper tone */
   padding: 3rem 2.5rem;
   border-radius: 6px;
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
   z-index: 1;
 }
 
