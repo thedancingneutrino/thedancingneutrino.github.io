@@ -36,7 +36,11 @@
 
 body {
   font-family: "Georgia", serif;
-  background: #c9c4ba;
+  background: linear-gradient(
+    45deg,
+    ##f57d3d 0%,
+    ##312b54 100%
+  );
   color: #222;
   margin: 0;
   padding: 3rem;
