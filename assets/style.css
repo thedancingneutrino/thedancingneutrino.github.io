@@ -229,7 +229,7 @@ a:hover {
 @media (prefers-color-scheme: dark) {
   body {
     background: #111;
-    color: #ddd;
+    color: #222;
   }
 
   a { color: #ddd; }
