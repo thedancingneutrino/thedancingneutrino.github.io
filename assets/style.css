@@ -36,7 +36,7 @@
 
 body {
   font-family: "Georgia", serif;
-  background: #fafafa;
+  background: #f0f0f0;
   color: #222;
   margin: 0;
   padding: 3rem;
@@ -46,7 +46,7 @@ body {
 main {
   max-width: 600px;
   margin: auto;
-  background: #fdfaf5;
+  background: #f5efe6;
   padding: 2.5rem 2.5rem 3rem;
   border-radius: 2px;
 }
@@ -253,8 +253,9 @@ a:hover {
   }
 
   main {
-    max-width: none;
+    max-width: 100%;
     margin: 0;
+    padding:1.2rem;
   }
 
   .landing {
@@ -312,4 +313,12 @@ a:hover {
     text-transform: uppercase;
   }
   
+}
+
+@media (min-width: 701px) {
+  main {
+    padding: 2.5rem;
+    border-radius: 6px;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  }
 }
