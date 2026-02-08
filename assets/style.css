@@ -34,18 +34,46 @@
   opacity: 1;
 }
 
+
 body {
-  font-family: "Georgia", serif;
-  background: #fafafa;
+  position: relative; /* needed for pseudo-element overlay */
+  background: linear-gradient(
+    160deg,
+    #ad5a2d 0%,      /* warm start */
+    #c192b0 50%,     /* softened midpoint */
+    #654875 100%     /* cool muted purple end */
+  );
+  font-family: "Georgia"; serif;
   color: #222;
   margin: 0;
   padding: 3rem;
-  padding-top: 2rem;
+  padding-top: 5rem;
 }
 
+/* Subtle vignette to focus on center content */
+body::before {
+  content: "";
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  pointer-events: none; /* clicks pass through */
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255,255,255,0) 60%, /* center stays bright */
+    rgba(0,0,0,0.08) 100%    /* edges darken slightly */
+  );
+  z-index: 0;
+}
+
+
 main {
+  position: relative;
   max-width: 600px;
   margin: auto;
+  background: #fcf2e1; /* light paper tone */
+  padding: 3rem 2.5rem;
+  border-radius: 6px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.28);
+  z-index: 1;
 }
 
 h1 {
@@ -216,27 +244,9 @@ a:hover {
 
 .entry-separator {
   border: none;
-  border-top: 1px solid #eee;
-  max-width: 40%;
+  border-top: 1px solid #444;
+  max-width: 70%;
   margin: 2.5rem 0;
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #111;
-    color: #ddd;
-  }
-
-  a { color: #ddd; }
-  .entry-separator { border-top-color: #333; }
-
-  .chapter-card {
-    border-color: #222;
-  }
-
-  .chapter-card:hover {
-    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
-  }
 }
 
 @media (max-width: 600px) {
@@ -251,8 +261,10 @@ a:hover {
   }
 
   main {
-    max-width: none;
+    max-width: 95%;
     margin: 0;
+    padding:1.5rem 1.25rem;
+    border-radius: 4px;
   }
 
   .landing {
