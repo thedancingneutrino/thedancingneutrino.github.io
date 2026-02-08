@@ -43,7 +43,7 @@ body {
     #c192b0 50%,     /* softened midpoint */
     #654875 100%     /* cool muted purple end */
   );
-  font-family: "Georgia"; serif;
+  font-family: "Georgia", serif;
   color: #222;
   margin: 0;
   padding: 3rem;
