@@ -4,7 +4,7 @@ title: "All the Consequences"
 chapter: ch2
 order: 13
 blurb: And I am glad.
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7601136226829225238
 instagram: https://www.instagram.com/p/DPeZR_yDHpk/
 ---
 

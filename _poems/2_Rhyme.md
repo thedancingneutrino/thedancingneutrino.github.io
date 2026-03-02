@@ -4,7 +4,7 @@ title: "Rhyme"
 chapter: ch2
 order: 10
 blurb: But does it rhyme?
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7600348423597903126
 instagram: https://www.instagram.com/p/DOeNjpmjPK2/
 ---
 
