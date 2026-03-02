@@ -12,9 +12,9 @@ layout: default
      {{ page.title | split: ":" | last }}
   </span>
 </h1>
-{% if page.blurb %}
+{% if page.summary %}
     <p class="poem-blurb">
-      {{ page.description }}
+      {{ page.summary }}
     </p>
 {% endif %}
 <p>{{ content }}</p>
