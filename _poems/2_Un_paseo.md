@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "Un mes en cuatro jueves"
+title: "Un paseo"
 chapter: ch2
 order: 20
 blurb: Me fui a dar un paseo para encontrar inspiración en algo que no fueras tú.
