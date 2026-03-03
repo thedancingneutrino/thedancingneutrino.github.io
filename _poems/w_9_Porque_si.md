@@ -2,6 +2,7 @@
 layout: poem
 title: "No. 9 Porque Si"
 chapter: ww
+blurb: Escrito obligado
 order: 8
 ---
 

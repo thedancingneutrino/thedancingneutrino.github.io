@@ -2,6 +2,7 @@
 layout: poem
 title: "No. 8 Lo Tuvimos"
 chapter: ww
+blurb: Escrito en un puente
 order: 8
 ---
 

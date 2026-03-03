@@ -2,6 +2,7 @@
 layout: poem
 title: "No. 4  Untitled"
 chapter: ww
+blurb: Escrito en una noche Padovana
 order: 4
 ---
 *\[Yami Safdie, Lasso - Otra Vida ♫ \]*
