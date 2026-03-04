@@ -15,12 +15,12 @@ Contaminarse del pasado de mi cuerpo
 Y derramarse sobre un papel
 En forma de versos.
 
-No sé posó de nuevo la luna
+No se posó de nuevo la luna
 En mi ventana de madrugada.
 No escuché una brisa 
-Cómo alarma inoportuna
+Como alarma inoportuna
 Portando el alma de un suspiro
-De una musa transatlantica
+De una musa transatlántica
 Llenar de carga mi último respiro
 Para empezar a recitar
 
@@ -31,6 +31,6 @@ Sin dedica
 Sin elogio
 Sin quejas 
 
-Porque?
+Por qué?
 Porque si
 *Porque soy un poeta.*
