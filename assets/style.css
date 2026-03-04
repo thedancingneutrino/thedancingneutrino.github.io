@@ -83,7 +83,11 @@ h1 {
 
 .landing {
   max-width: 650px;
-  margin: 4rem auto;
+  margin: o auto 4rem auto;
+}
+
+.home main {
+  padding-top: 2rem;
 }
 
 .intro {
