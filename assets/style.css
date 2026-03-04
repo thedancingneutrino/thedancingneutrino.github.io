@@ -157,6 +157,13 @@ h1 {
 
 .chapter-entry {
   padding: 0.5rem 0;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+  border-radius: 4px;
+}
+
+.chapter-entry:hover {
+  transform: translateY(-3px);
+  background: rgba(0, 0, 0, 0.03);
 }
 
 .entry-title {
@@ -170,7 +177,7 @@ h1 {
 }
 
 .entry-title a:hover {
-  color: #e24a09; /* your purple */
+  color: #e24a09; 
 }
 
 .entry-blurb {
@@ -181,9 +188,9 @@ h1 {
 
 .entry-separator {
   border: none;
-  border-top: 1px solid #444;
-  max-width: 60%;
-  margin: 2.0rem 0;
+  border-top: 1px solid rgba(0,0,0,0.15);
+  max-width: 70%;
+  margin: 1.8rem auto;
 }
 
 
