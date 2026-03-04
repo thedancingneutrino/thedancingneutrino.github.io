@@ -156,14 +156,19 @@ h1 {
 }
 
 .chapter-entry {
-  padding: 0.5rem 0;
-  transition: transform 0.15s ease, opacity 0.15s ease;
+  padding: 1.5rem 1;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  transition: 
+    transform 0.15s ease, 
+    opacity 0.15s ease,
+    border-color 0.15s ease;
   border-radius: 4px;
 }
 
 .chapter-entry:hover {
   transform: translateY(-3px);
-  background: rgba(0, 0, 0, 0.03);
+  background: rgba(0, 0, 0, 0.04);
+  border-color: rgba(0, 0, 0, 0.25)
 }
 
 .entry-title {
