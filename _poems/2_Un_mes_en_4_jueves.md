@@ -4,7 +4,7 @@ title: "Un mes en cuatro jueves"
 chapter: ch2
 order: 12
 blurb: Acercándote, acercándonos, acercándomeee.... 
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7600925696499764502
 instagram: https://www.instagram.com/p/DPT27l4DBFV/
 ---
 

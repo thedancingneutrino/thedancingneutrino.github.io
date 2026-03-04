@@ -4,7 +4,7 @@ title: "Por eso es que se ha muerto"
 chapter: ch2
 order: 11
 blurb: Por culpa de este poema, perdí mi pasaporte. Y luego se me cayó el telefono a la alcantarilla xD.
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7600560670001646870
 instagram: https://www.instagram.com/p/DPEP1oyiDFV/
 ---
 

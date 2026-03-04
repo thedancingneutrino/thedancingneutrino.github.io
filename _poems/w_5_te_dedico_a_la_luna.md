@@ -2,6 +2,7 @@
 layout: poem
 title: "No. 5 Te Dedico a la Luna"
 chapter: ww
+blurb: Escrito en la segunda luna llena
 order: 5
 ---
 

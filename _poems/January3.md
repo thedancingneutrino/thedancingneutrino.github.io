@@ -3,7 +3,7 @@ layout: poem
 title: "Please (January 3rd)"
 chapter: ch1
 order: 7
-blurb: When a song hits so hard, you need to make a poem with it
+blurb: When a song hits so hard, it inspires you to write.
 instagram: https://www.instagram.com/p/DKcGehRMT_N/
 titkok: https://www.tiktok.com/@thedancingneutrino/video/7511702172791344406
 ---
@@ -11,15 +11,15 @@ titkok: https://www.tiktok.com/@thedancingneutrino/video/7511702172791344406
 Please....
 I am asking you one final time
 All the doubts I've long wondered
-Don't make them true tonight
+Don't make them true tonight.
 
 Maybe it's a bad luck streak
 All these years in the making
-But when I saw you I somehow
-Thought this will be the time
+But when I saw you, I somehow
+Thought this will be the time.
 
 I know it's just my perception
-Thousand things in my mind
+A Thousand things in my mind
 And I ground back to think
 I made the right choice, didn't I?
 
@@ -44,9 +44,9 @@ One dance and meal at a time
 The heating in the room was so nice.
 
 Or maybe the fear was always
-Meant to hide the signs
+Meant to hide the signs.
 You can only hope that you never
-The trigger of the bomb you find
+The trigger of the bomb you find.
 
 But everyone rolls their eyes
 And tells me to pay
@@ -54,6 +54,8 @@ Attention to the writing
 On the wall
 
 (Yes this is a cover of a Sabrina Carpenter song)
+
+*\[Sabrina Carpenter - Please,Please, Please ♫\]
 *All I'm asking baby*
 
 *Please please please

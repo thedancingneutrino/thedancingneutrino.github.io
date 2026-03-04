@@ -12,9 +12,9 @@ layout: default
      {{ page.title | split: ":" | last }}
   </span>
 </h1>
-{% if page.blurb %}
+{% if page.summary %}
     <p class="poem-blurb">
-      {{ page.description }}
+      {{ page.summary }}
     </p>
 {% endif %}
 <p>{{ content }}</p>
@@ -36,25 +36,19 @@ layout: default
 <div class="chapter-entries">
   {% for poem in chapter_poems %}
 
-    <div class="chapter-entry">
+  <a href="{{ poem.url }}" class="chapter-entry">
 
-      <h2 class="entry-title">
-        <a href="{{ poem.url }}">
-          {{ poem.title }}
-        </a>
-      </h2>
-
-      {% if poem.blurb %}
-        <p class="entry-blurb">
-          {{ poem.blurb }}
-        </p>
-      {% endif %}
-
-    </div>
-
-    {% unless forloop.last %}
-      <hr class="entry-separator">
-    {% endunless %}
+    <h2 class="entry-title">
+      {{ poem.title }}
+    </h2>
+  
+    {% if poem.blurb %}
+      <p class="entry-blurb">
+        {{ poem.blurb }}
+      </p>
+    {% endif %}
+  
+  </a>
 
   {% endfor %}
 </div>

@@ -3,7 +3,7 @@ layout: poem
 title: "7 de Noviembre (Arroz con Menestra)"
 chapter: ch1
 order: 3
-blurb: Inheritance through food
+blurb: Meal-Oriented Inheritance.
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7515855841405259030
 instagram: https://www.instagram.com/p/DK44_r1NuOS/
 ---
@@ -22,14 +22,14 @@ Cómo la parte de sangre blanca,
 Que en los rostros dantescos me encuentra.
 Cómo el rojo vibrante de los volcanes,
 Que da color a mi piel canela.
-El universo de casualidades
-que se encontró en series de dos en dos
+El universo de casualidades,
+que se encontró en series de dos en dos.
 
-Y es que somos un colectivo un conjunto
-Soy una integral por partes de a 25 años por segundo
-Inca vikingo y niche, diría mi papá
+Y es que somos un colectivo, un conjunto
+Soy una integral por partes de a 25 años por segundo.
+Inca vikingo y niche, diría mi papá.
 Casas papales, rivales, monarquías
-Su suegro convocará
+Su suegro convocará.
 
 Y mi madre y su madre y
 seguramente su madre también

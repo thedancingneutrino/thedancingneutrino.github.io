@@ -4,7 +4,7 @@ title: "Desconjugado"
 chapter: ch2
 order: 14
 blurb: Desconjugando algunos verbos.
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7601511132142046486
 instagram: https://www.instagram.com/p/DQE8NSlDDCz/
 ---
 

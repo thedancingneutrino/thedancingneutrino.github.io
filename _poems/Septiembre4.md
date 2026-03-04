@@ -3,7 +3,7 @@ layout: poem
 title: "4 de Septiembre (Tres Cientos Sesenta y Cinco Días)"
 chapter: ch1
 order: 2
-blurb: Un año no es nada
+blurb: Un año no es nada.
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7507687069280423190
 instagram: https://www.instagram.com/p/DJovafFMVK3/
 ---
@@ -20,15 +20,15 @@ Un año entero que pasa
 Y después de todo
 Si es así con 20 (o veinte),
 De verdad un año no es nada
-Que febril la mirada
+Que febril la mirada.
 Y de un café experto
-En una tierra del pasado
-A un gustoso novicio filtrado
+En una tierra del pasado,
+A un gustoso novicio filtrado.
 Y del anhelo de un beso
-Por fin realizado
+Por fin realizado,
 Al miedo del poder
-Que en mi tienen otros labios
-De atardecer abrazado con tu rock pesado
+Que en mi tienen otros labios.
+De atardecer abrazado con tu rock pesado,
 A la recomendación
 que nos dará vueltas al abismo conquistado.
 Que cosas tan locas y mágicas se viven en
@@ -44,7 +44,7 @@ Y mil preguntas sin responder
 cada vez que dos almas están bailando?
 O es que cada vez que rapeas en un auto
 Un nuevo ángel gana sus halos.
-Estoy extasiado de vivir en un mundo así de mágico
+Estoy extasiado de vivir en un mundo así de mágico,
 Estoy aterrado de aquel mundo que sigue avanzando.
 
 18 dias
@@ -57,11 +57,11 @@ Estoy aterrado de aquel mundo que sigue avanzando.
 Dias
 
 Es una locura!
-Del oro tus ojos
+Del oro tus ojos,
 A sus labios bendecidos.
-De un juego de dos locos
-Locos por un sentimiento
-Inmenso y abrumante
+De un juego de dos locos,
+locos por un sentimiento,
+inmenso y abrumante,
 A dos locos abrumados
 Jugando a hacer pequeño
 Un sentimiento inmenso.
@@ -76,7 +76,7 @@ Un sentimiento inmenso.
 
 Tres por cien
 Seis por diez
-Y cinco
+Y cinco.
 Que aunque cada uno los resuelvas,
 No alcanzan aún el infinito de cuanto duró
 ¿Cuántos laboratorios alcanzan
@@ -87,15 +87,15 @@ Tantos planes
 Tantas vueltas
 Tango gusto en girar a ciegas.
 Y no te olvides mientras te meneas.
-"no pensar en besar a la pareja"
+"no pensar en besar a la pareja."
 
 Y es que es verdad que quedamos congelados
-En septiembres del veintidós
+En septiembres de veintidós
 Después de una llama inmortal
 Ardida quemada y apagada
 Nos dejamos eternos
-Un recuerdo de aquello
-De eso que nos merecemos
+un recuerdo de aquello,
+De eso que nos merecemos.
 
 Ya han sido
 tres-seis-cinco días

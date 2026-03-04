@@ -4,7 +4,7 @@ title: "Un poema Cursi"
 chapter: ch2
 order: 16
 blurb: La verdad solo quería decirte que te extraño
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7602252650427600150
 instagram: https://www.instagram.com/p/DQrmhpPjOZr/
 ---
 

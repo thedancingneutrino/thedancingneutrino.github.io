@@ -3,13 +3,13 @@ layout: poem
 title: "29 de Marzo, Una carretera (Completado en Enero)"
 chapter: ch1
 order: 8
-blurb: Una de esas veces ue un poema cobra sentido despues de  casi un año
+blurb: Una de esas veces que un poema cobra sentido despues de casi un año
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7509138328906747158
 instagram: https://www.instagram.com/p/DKKUqYgsXRW/
 ---
 
 Tu ya no me amas,
-Eso es lo que ha acontecido
+Eso es lo que ha acontecido.
 Y me lo dices con calma, sin drama.
 ¿Para qué llorar algo que hace tiempo ha partido?
 

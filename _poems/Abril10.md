@@ -3,7 +3,7 @@ layout: poem
 title: "10 de Abril (Fantasmas)"
 chapter: ch1
 order: 4
-blurb: Un poema dedicado a mis alucinaciones
+blurb: Un poema dedicado a mis halucinaciones (la h la aluciné).
 instagram: https://www.instagram.com/p/DIjb0stsrvU/
 tiktok: https://www.tiktok.com/@thedancingneutrino/video/7494311773059730710
 ---

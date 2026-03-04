@@ -4,7 +4,7 @@ title: "En Otras"
 chapter: ch2
 order: 15
 blurb: En otra vida...
-tiktok: 
+tiktok: https://www.tiktok.com/@thedancingneutrino/video/7601853971375934742
 instagram: https://www.instagram.com/p/DQJ_BBuDD7m/
 ---
 
