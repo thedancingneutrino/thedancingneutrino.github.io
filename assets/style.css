@@ -156,6 +156,9 @@ h1 {
 }
 
 .chapter-entry {
+  display: block;
+  text-decoration: none;
+  color: inherit;
   position: relative;
   padding: 2rem 1.2rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);

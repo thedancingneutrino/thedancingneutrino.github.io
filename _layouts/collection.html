@@ -36,21 +36,19 @@ layout: default
 <div class="chapter-entries">
   {% for poem in chapter_poems %}
 
-    <div class="chapter-entry">
+  <a href="{{ poem.url }}" class="chapter-entry">
 
-      <h2 class="entry-title">
-        <a href="{{ poem.url }}">
-          {{ poem.title }}
-        </a>
-      </h2>
-
-      {% if poem.blurb %}
-        <p class="entry-blurb">
-          {{ poem.blurb }}
-        </p>
-      {% endif %}
-
-    </div>
+    <h2 class="entry-title">
+      {{ poem.title }}
+    </h2>
+  
+    {% if poem.blurb %}
+      <p class="entry-blurb">
+        {{ poem.blurb }}
+      </p>
+    {% endif %}
+  
+  </a>
 
   {% endfor %}
 </div>
