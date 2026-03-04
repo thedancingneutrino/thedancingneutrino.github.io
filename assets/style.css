@@ -156,19 +156,39 @@ h1 {
 }
 
 .chapter-entry {
-  padding: 1.5rem 1;
+  position: relative;
+  padding: 2rem 1.2rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15);
-  transition: 
-    transform 0.15s ease, 
-    opacity 0.15s ease,
-    border-color 0.15s ease;
-  border-radius: 4px;
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
 }
 
 .chapter-entry:hover {
-  transform: translateY(-3px);
-  background: rgba(0, 0, 0, 0.04);
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
   border-color: rgba(0, 0, 0, 0.25)
+}
+
+.chapter-entry::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 20%;
+  height: 60%;
+  width: 3px;
+  background: linear-gradient(
+    to bottom,
+    #6f4ea3,
+    #d85f1f
+  );
+  opacity: 0;
+  transition: opacity 0.18s ease;
+  border-radius: 2px;
+}
+.chapter-entry:hover::before {
+  opacity: 1;
 }
 
 .entry-title {
