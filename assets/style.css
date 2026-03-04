@@ -173,11 +173,12 @@ h1 {
 }
 
 .entry-title a {
-  transition: color 0.2s ease;
+  color: #222;
+  transition: color 0.15s ease;
 }
 
-.entry-title a:hover {
-  color: #e24a09; 
+.chapter-entry:hover .entry-title a {
+  color: #000;
 }
 
 .entry-blurb {
