@@ -110,6 +110,7 @@ h1 {
   padding: 1.5rem 1.75rem;
   border: 1px solid #444;
   border-radius: 8px;
+  position: relative;
   display: block;
   color: inherit;
   text-decoration: none;
@@ -128,7 +129,27 @@ h1 {
 .chapter-card:hover {
   transform: translateY(-2px);
   text-decoration: none;
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 -6px 18px rgba(0, 0, 0, 0.14);
+}
+
+.chapter-card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 7px;
+  background: linear-gradient(
+    to bottom,
+    #6f4ea3,
+    #d85f1f
+  );
+  opacity: 0;
+  transition: opacity 0.18s ease;
+}
+
+.chapter-card:hover::before {
+  opacity: 1;
 }
 
 .chapter-title {
