@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "No. 10 La Última vez que te Soñé"
+title: "No. 10: La Última vez que te Soñé"
 chapter: ww
 blurb: Lo escribí al despertar
 order: 10

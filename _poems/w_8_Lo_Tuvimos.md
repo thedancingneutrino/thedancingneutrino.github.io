@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "No. 8 Lo Tuvimos"
+title: "No. 8: Lo Tuvimos"
 chapter: ww
 blurb: Lo escribí en un puente
 order: 8

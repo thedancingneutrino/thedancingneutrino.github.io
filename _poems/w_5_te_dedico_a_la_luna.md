@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "No. 5 Te Dedico a la Luna"
+title: "No. 5: Te Dedico a la Luna"
 chapter: ww
 blurb: Lo escribí en la segunda luna llena
 order: 5

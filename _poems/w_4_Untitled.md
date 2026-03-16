@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: "No. 4  Untitled"
+title: "No. 4:  Untitled"
 chapter: ww
 blurb: Lo escribí en una noche Padovana
 order: 4
