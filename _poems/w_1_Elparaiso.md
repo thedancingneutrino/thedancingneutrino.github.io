@@ -2,7 +2,7 @@
 layout: poem
 title: "No. 1: El Paraíso"
 chapter: ww
-blurb: Escrito en Bogotá
+blurb: Lo escribí en Bogotá
 order: 1
 ---
 

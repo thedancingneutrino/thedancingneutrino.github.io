@@ -2,7 +2,7 @@
 layout: poem
 title: "No. 11 Me Perdí Dos Segundos"
 chapter: ww
-blurb: Lo escribí al despertar
+blurb: Lo escribí después
 order: 10
 ---
 

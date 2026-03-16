@@ -2,7 +2,7 @@
 layout: poem
 title: "No. 3 Hiperespacio"
 chapter: ww
-blurb: Escrito en Granada
+blurb: Lo escribí en Granada
 order: 3
 ---
 

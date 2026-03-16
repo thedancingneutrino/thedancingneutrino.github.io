@@ -2,7 +2,7 @@
 layout: poem
 title: "No. 2: Buscándote"
 chapter: ww
-blurb: Escrito en Buenos Aires
+blurb: Lo escribí en Buenos Aires
 order: 2
 ---
 

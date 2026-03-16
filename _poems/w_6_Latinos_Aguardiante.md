@@ -2,7 +2,7 @@
 layout: poem
 title: "No. 6 Un Grupo de Latinos Tomando Aguardiente"
 chapter: ww
-blurb: Escrito antes del Super Tazón
+blurb: Lo escribí antes del Super Tazón
 order: 6
 ---
 
