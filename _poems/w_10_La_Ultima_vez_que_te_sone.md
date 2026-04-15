@@ -8,8 +8,8 @@ order: 10
 
 Yo siempre lo he dicho
 No soy muy consciente de mis sueños 
-Igual evoco aén aquel
-La sensación fisicticia, o mejor onírica
+Igual evoco aún aquel
+La sensación *fisicticia*, o mejor onírica
 De tu cuerpo sobre el mio
 Bajo aquella luz dorada, borrosa, tenue.
 Pero en viajes siguientes
