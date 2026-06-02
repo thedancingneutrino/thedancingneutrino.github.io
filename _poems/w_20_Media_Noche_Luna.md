@@ -31,7 +31,7 @@ Sabroseame en tu dulzura
 Que mi luna es buena diente
 Y artista de la diablura
 
-Y cuando la media manana
+Y cuando la media mañana
 Asome cruel su clausura
 Guarda en canción la noche
 Piérdase en rimas la luna
