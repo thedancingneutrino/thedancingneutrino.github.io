@@ -25,4 +25,4 @@ Que mi mas grande verso
 Nadie lo vea.
 Nadie lo escuche.
 
-Se esfume al final de un verso.
+Se esfume al final de un beso.
