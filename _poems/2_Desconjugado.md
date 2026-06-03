@@ -26,7 +26,7 @@ Te debería sentir tan vicino?
 I need an essay, un paper, un libro 
 Something que me explique tu cariño 
 El que me das even if no lo pretendes 
-El que existe tambien sin ti presente.
+El que existe también sin ti presente.
 
 Eres, soy, fuimos y seremos
 Respiras conmigo el aire de aquel último beso
@@ -53,9 +53,9 @@ Un universo entre nuestros cuerpos cautivos
 Un sendero de tu cuello hacia mi boca
 Un hechizo de tu corazon hacia mi ropa
 
-Respiramos, algun dia tanto descontrol
+Respiramos, algun día tanto descontrol
 Respiraron las barreras del corazon
-Respirara, Ojala, la respuesta correcta
+Respirara, Ojalá, la respuesta correcta
 Respirando, se enmienda la tempesta
 
 Respiraste el mismo océano que nos separa

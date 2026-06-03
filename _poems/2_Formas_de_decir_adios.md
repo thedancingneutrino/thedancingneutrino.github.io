@@ -53,7 +53,7 @@ El hondo Bajofondo
 
 Un día, una misteriosa luz llegará
 A posarse sobre la memoria
-Y la sonrisa que dibujara mi rostro será sincera
+Y la sonrisa que dibujará mi rostro será sincera
 
 Y la próxima vez que te vea
 Mi alma llorará

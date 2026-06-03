@@ -11,7 +11,7 @@ Que devanan en los hilos
 de halón gravitacional
 en torno al hoyo negro
 centro del torbellino
-Oceánico, Zafirinos...
+Oceánico, Zafirino...
 
 Perdón que me demore en responder
 Que me perdí un suspiro en tus ojos 

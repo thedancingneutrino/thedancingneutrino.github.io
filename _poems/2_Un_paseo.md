@@ -98,5 +98,5 @@ De algo nuevo que no sea tuyo
 
 Pero ya es media noche
 Un año completo
-Alzó un último verso un tu nombre
+Alzo un último verso un tu nombre
 Hasta luego.

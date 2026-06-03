@@ -34,7 +34,7 @@ y deshechas al atestiguar eventos de misteriosos
 
 Fantasmas de tu cuerpo que me persiguen
 Que me preguntan una y otra vez solicitan
-cartas, poesia, discusiones filosóficas de
+cartas, poesía, discusiones filosóficas de
 aquello que sucedió en esta ciudad de
 caos, personas pasantes temporales, miles
 fantasmas en potencia que cruzan miradas
@@ -64,5 +64,5 @@ Las pistas de un misterioso romanzo
 la épica historia de aquel dulce dragón
 se avecina y me susurra
 
-Y me susurra en el oído que aún te uiero
+Y me susurra en el oído que aún te quiero
 

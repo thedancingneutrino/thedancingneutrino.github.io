@@ -48,8 +48,8 @@ Es una ansiedad prolongada
 Traída como consecuencia
 De un problema cuando niño 
 
-Pero al final, si, a lo mejor un día no
-Me compraron el sabor de Nesquik que quería
+Pero al final, sí, a lo mejor un día
+No me compraron el sabor de Nesquik que quería
 Y por eso ahora mi mente solo puede hundirse
 En pieles sabor a cacao.
 Pero acaso eso no puede ser amor
@@ -74,7 +74,7 @@ Y regreso a las cosas que he aprendido
 
 Primero. El amor es un sentimiento
 Nacido del Nesquik quizás
-Quizas nacido de ese día que me pico una avispa
+Quizás nacido de ese día que me pico una avispa
 A lo mejor cuando al año de infancia me sentía Superman
 O incluso a la fuerza de las olas del Pacífico al nadar.
 
@@ -112,7 +112,8 @@ Es un contrato. Es la culminación realista de una idea.
 
 Tercero. Es un esfuerzo
 Es una construcción 
-El amor es tan difícil porque involucra dos personas tan diferentes que hasta tienen sexo diferente (en paz descanse Carlitos)
+El amor es tan difícil porque involucra dos personas 
+tan diferentes que hasta tienen sexo diferente (en paz descanse Carlitos)
 Pero entra el esfuerzo
 Las ganas de estar
 Las de seguir

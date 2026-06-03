@@ -27,14 +27,14 @@ Me caliento y siento
 Cómo me apago.
 
 Y es que estás ahí con calma,
-¡Atrevete, mierda!
+¡Atrévete, mierda!
 Dime algo de una vez
 Sé que estás aguantando
 Reclamarme, destruirme
 
 ¿¡Por qué estás ahí!?
 Sin decir nada, sin hablar
-No me dejes hablar tanto, ya sabés
+No me dejes hablar tanto, ya sabes
 Tu ya sabes que....!!!!
 ....Tiendo a hablar demasiado
 
@@ -70,7 +70,7 @@ Para.. siempre.. te lo juro?
 Pronto,
 Pronto sabré que tienes razón.
 Que yo no estoy aquí
-Que tu no estas ahi
+Que tu no estas ahí
 
 Y estas palabras
 no son más que ecos.

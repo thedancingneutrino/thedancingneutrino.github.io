@@ -55,9 +55,9 @@ Nunca más ser.
 
 Hermosa aquella vida 
 En la que te diste cuenta
-Que una ves yo tenía razón
+Que una vez yo tenía razón
 Porque tú eres mi persona
-Y para ti lo mismo yo soy.
+Y para tí lo mismo yo soy.
 
 Hermoso es el día 
 En qué nunca decidiste

@@ -9,13 +9,13 @@ instagram: https://www.instagram.com/p/DRxD9AtDGqU/
 ---
 
 Maldita sea
-Y es que todo me dice que ya es hora
-Menos tus ojos
-Que me llaman, me gritan que me quede
+Y es que todo me dice que ya es hora.
+Menos tus ojos.
+Que me llaman, me gritan que me quede.
 
-Quizás por eso tu voz no responde ni llamada
-Deja sonar 
-Brrrrp brrrrrrp brrrrrrp..... Brrrrp
+Quizás por eso tu voz no responde ni llamada.
+Deja sonar .
+Brrrrp brrrrrrp brrrrrrp..... Brrrrp...
 Y me imagino que fuerza te llama
 A no contestar
 
@@ -26,7 +26,7 @@ Qué piensas?
 
 Cuando las gotas de lluvia
 Se localizan perfectamente 
-Como el acuarelas fantásticas
+Como acuarelas fantásticas
 Como el marco de una foto
 
 Pareciera que ya es hora

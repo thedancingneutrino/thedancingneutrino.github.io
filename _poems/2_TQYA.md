@@ -34,6 +34,6 @@ La persona que quisiera cuidar todos los dias, despertar y ver en sus ojos refle
 Quiero
 <div class="voice voice-a" style="font-size: 0.8em;">
 (Un sentimiento, una emoción. La partícula que media la interacción del momento que sale de mi corazón. El pasado presente y futuro de nuestra existencia. Los bailes que no tienen fin y nunca tendrán. Las mil palabras que aprenderemos del otro y las miles costumbres que nos pasaríamos, crearíamos y olvidariamos para acordarnos muchos años despues un día como "ah mira te acuerdas cuando los domingos salíamos a caminar y compramos siempre helado en esta esquina. Deberíamos ir de nuevo con los niños." Una casa, un hogar, nuestro espacio. 
-Las tradiciones de las fiestas que no tendrían sentido para nadie ms que para nosotros. Las recetas, la dulzura, las peleas, los besos, los abrazos.)
+Las tradiciones de las fiestas que no tendrían sentido para nadie más que para nosotros. Las recetas, la dulzura, las peleas, los besos, los abrazos.)
 </div>
 Nada más.

@@ -32,5 +32,5 @@ Solo 3 minutos, no me dejes pedir más.
 
 No me sueltes, ya por favor no me sueltes
 Que si me sueltas me voy a desmoronar
-Sujetame y sujeta mi alma que se aferra a tus pies
+Sujétame y sujeta mi alma que se aferra a tus pies
 El abrazo que me diste, ya no te lo pienso devolver.

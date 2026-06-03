@@ -61,7 +61,7 @@ Y sonrío cuando me mirás.
 Emocionada. 
 "Qué otra cosa me cocinarás"
 
-Bueno. Quizás mañana desayunamos
+Bueno... Quizás mañana desayunamos
 En el día, amanecer en esta ocasión 
 Con café o un tecito, te haría unos panqueis
 O si te gusto ahora, quizás un patacón.
@@ -83,7 +83,7 @@ Igual un bolón y frito un huevo.
 
 Te invito a desayunar de noche
 Y asi ver en tus ojos el primer
- y el ultimo sol. Lo que esconde
+y el ultimo sol. Lo que esconde
 Tu sonrisa, tu historia, tu sabor
 
 Te invito como un desafío

@@ -29,7 +29,7 @@ Il mio corpo ambizioso non riposa
 Aspettando questo tocco elettrico
 Quello che lo fa sentire veramente percepito.
 
-"Ven devorame otra vez" 
+"Ven devórame otra vez" 
 Direbbe, se fosse salsa
 "Una propuesta indecente"
 Portata del peccato di una bachata
