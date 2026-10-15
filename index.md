@@ -10,7 +10,7 @@ title: Home
   </p>
 
   <div class="chapters">
-    {% assign chapters = site.chapters | sort: "order" %}
+    {% assign chapters = site.chapters | sort: "order" | reverse %}
 
     {% for chapter in chapters %}
       <a href="{{ chapter.url }}" class="chapter-card">
