@@ -12,7 +12,7 @@ Desayuno en las manos
 Te agarro y te abrazo
 
 Nos tiramos los pasos
-El cafe aromando
+El café aromando
 Los labios dibujando
 Caderas sabroseando
 

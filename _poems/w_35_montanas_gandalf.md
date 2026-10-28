@@ -6,7 +6,7 @@ blurb: Se me ocurrio en un acantilado
 order: 35
 ---
 
-Quiero ver montañas Otra Vez
+Quiero ver montañas, otra vez
 Sentir vértigo del abismo
 antónimo del páramo infinito
 Que evoca en el alma del sujeto
@@ -28,4 +28,4 @@ De lo estrepitoso del camino
 Aún por recorrer. Aún en alza.
 
 Cómo sea
-Quiero vivir montañas
+Quiero vivir montañas.

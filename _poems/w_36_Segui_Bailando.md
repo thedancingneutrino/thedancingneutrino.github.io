@@ -14,7 +14,7 @@ Pero de eso no me habré enterao
 Quisiera que ella baile
 Y yo jamás me de reparo
 Durmiendo en mis historias
-Y ella enredá en otro lao
+Y ella enredá' en otro lao
 
 Solo para que sepa
 Ese último abrazo fue un regalo 
